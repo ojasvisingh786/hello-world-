@@ -1,4 +1,4 @@
-# hello-world-
+#hello-world
 
 Hello and welcome to my GitHub profile! My name is Ojasvi Singh Yadav and I am Web & App developer. I am excited to share my projects and contributions with the open source community on GitHub.
 
